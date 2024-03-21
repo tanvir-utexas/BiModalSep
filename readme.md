@@ -1,3 +1,3 @@
-# Weakly Supervised Sound Separation with Bimodal Semantic Similarity
+# Weakly Supervised Sound Separation with Bimodal Semantic Similarity (ICLR 2024)
 
-Demo webpage files are hosted in this repository. We will publish these files in github webpage once this repository is made public.
+This webpage contains demo samples from our paper [BiModalSep](https://openreview.net/forum?id=4N97bz1sP6).
